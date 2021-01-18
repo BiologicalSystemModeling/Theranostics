@@ -4,12 +4,12 @@ Galaxy and MEAN stack to create a user-friendly workflow for the rational optimi
 By: Jorge Guerra Pires1,2, Gilberto Ferreira da Silva1,2, Thomas Weyssow3, Alessandra Jordano Conforte2,4, Dante Pagnoncelli5, Fabricio Alves Barbosa da Silva4, Nicolas Carels1,2,*
 
 Emails:
-Jorge Guerra Pires - jorgeguerrapires@yahoo.com.br
-Gilberto Ferreira da Silva - gilbertofs@gmail.com
-Thomas Weyssow - thomas.weyssow@gmail.com
-Alessandra Jordano Conforte - conforteaj@gmail.com
-Dante Pagnoncelli - dantepagnoncelli@gmail.com
-Fabricio Alves Barbosa da Silva - fabs.fiocruz@gmail.com
+Jorge Guerra Pires - jorgeguerrapires@yahoo.com.br;
+Gilberto Ferreira da Silva - gilbertofs@gmail.com;
+Thomas Weyssow - thomas.weyssow@gmail.com;
+Alessandra Jordano Conforte - conforteaj@gmail.com;
+Dante Pagnoncelli - dantepagnoncelli@gmail.com;
+Fabricio Alves Barbosa da Silva - fabs.fiocruz@gmail.com;
 Nicolas Carels - nicolas.carels@cdts.fiocruz.br; nicolas.carels@gmail.com
 
 1 hese authors contributed equally to this research
