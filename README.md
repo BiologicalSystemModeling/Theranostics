@@ -12,11 +12,11 @@ Dante Pagnoncelli - dantepagnoncelli@gmail.com;
 Fabricio Alves Barbosa da Silva - fabs.fiocruz@gmail.com;
 Nicolas Carels - nicolas.carels@cdts.fiocruz.br; nicolas.carels@gmail.com
 
-1 hese authors contributed equally to this research
+1 hese authors contributed equally to this research.
 2 Plataforma de Modelagem de Sistemas Biológicos, Center for Technology Development in Health (CDTS), Oswaldo Cruz Foundation (FIOCRUZ), Rio de Janeiro, Brazil.
 3 Informatic Department, Free University of Brussels (ULB), Brussels, Belgium.
-4 Laboratório de Modelagem Computacional de Sistemas Biológicos, Scientific Computing Program, FIOCRUZ, Rio de Janeiro, Brazil
-5 Centro de Oncologia Integrado (COI), Botafogo, Rio de Janeiro, Brazil
+4 Laboratório de Modelagem Computacional de Sistemas Biológicos, Scientific Computing Program, FIOCRUZ, Rio de Janeiro, Brazil.
+5 Centro de Oncologia Integrado (COI), Botafogo, Rio de Janeiro, Brazil.
 
 *Correponding author: e-mails: nicolas.carels@cdts.fiocruz.br ; nicolas.carels@gmail.com
 
