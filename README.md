@@ -12,7 +12,7 @@ Dante Pagnoncelli - dantepagnoncelli@gmail.com;
 Fabricio Alves Barbosa da Silva - fabs.fiocruz@gmail.com;
 Nicolas Carels - nicolas.carels@cdts.fiocruz.br; nicolas.carels@gmail.com
 
-1 hese authors contributed equally to this research.
+1 These authors contributed equally to this research.
 2 Plataforma de Modelagem de Sistemas Biológicos, Center for Technology Development in Health (CDTS), Oswaldo Cruz Foundation (FIOCRUZ), Rio de Janeiro, Brazil.
 3 Informatic Department, Free University of Brussels (ULB), Brussels, Belgium.
 4 Laboratório de Modelagem Computacional de Sistemas Biológicos, Scientific Computing Program, FIOCRUZ, Rio de Janeiro, Brazil.
@@ -28,3 +28,20 @@ Keywords: Systems biology, translational oncology, personalized medicine, Galaxy
 This matter has been published in Frontiers in Genetics at: https://www.frontiersin.org/articles/10.3389/fgene.2021.624259/full
 
 The perl, python and xml codes are given in the "GalaxyScripts" sub-directory. Note that the use of these codes is under MIT licence, but that the concept of theranostics, as presented here, was registered under the Brazilian intelectual property regulation number BR1020150308191. Organizations interested in the development of this concept are encouraged to contact Nicolas Carels. The interactome data are given in the "Interactome" sub-directory. These data enable to reproduce the finding of the paper content summarized above. The TCGA, GDC, and ArrayEXPRESS data that were used for this exercice can be retrieved from the GDC (https://portal.gdc.cancer.gov/) and ArrayEXPRESS (https://www.ebi.ac.uk/arrayexpress/) portals. They are far too big (hundreds of gigabases) to be up-loaded here. Finally, the code that has been written for the front-end is available from https://github.com/Teranostico.
+
+Assessing RNA-seq workflow methodologies using Shannon entropy
+
+By: Nicolas Carels 1,*
+
+1 Plataforma de Modelagem de Sistemas Biológicos, Center for Technology Development in Health (CDTS), Oswaldo Cruz Foundation (FIOCRUZ), Rio de Janeiro, Brazil.
+
+*	Correspondence: nicolas.carels@fiocruz.br; Tel.: +55 21 2598-4242
+
+Abstract: RNA-seq faces persistent challenges due to the ongoing expanding array of data pro-cessing workflows, none of which have yet achieved standardization to date. It is imperative to determine which method most effectively preserves biological facts. Shannon entropy serves as a tool for depicting the biological status of a system. Thus, we assessed the measurement of Shannon entropy by several RNA-seq workflow approaches, employing RPKM and median normalization on paired samples of 475 TCGA RNA-seq datasets spanning eight different cancer types with 5-year overall survival rates ranging from 30% to 98%. Our analysis revealed that the RPKM nor-malization coupled with a threshold of log2 fold change ≥1 for indentifying differentially expressed genes, yielded the best results with a correlation coefficient of 0.91. We propose that Shannon en-tropy can serve as an objective metric for refining the optimization of RNA-seq workflows.
+
+Keywords: RPKM; median normalization; benchmarking; entropy; PPI network; cancer; 5-year OS.
+
+This matter has been published in Frontiers in Genetics at: 
+
+The perl and xml codes are given in the "CorrelationScripts" sub-directory.
+
