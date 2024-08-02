@@ -41,7 +41,7 @@ Abstract: RNA-seq faces persistent challenges due to the ongoing expanding array
 
 Keywords: RPKM; median normalization; benchmarking; entropy; PPI network; cancer; 5-year OS.
 
-This matter has been published at: https://www.preprints.org/manuscript/202405.1137/v1
+This matter has been published at: https://www.mdpi.com/2079-7737/13/7/482
 
 The perl and xml codes are given in the "CorrelationScripts" sub-directory.
 
